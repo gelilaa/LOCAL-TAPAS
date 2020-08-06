@@ -104,7 +104,7 @@ __The user can use the site to its full extent__
 ### DOM 
 -	Require and apply the `script/..js` files
 
->*assigned to Fatih*
+>*assigned to Hazem*
 ---
 
 
@@ -113,7 +113,7 @@ __The user can use the site to its full extent__
 __The user can see a writen development strategy and README files__
 
 
-> *assigned to gelila & fatih perspectively*
+> *assigned to gelila & hazem perspectively*
 ## Finishing Touches
 
 - All bugs and errors were fixed
@@ -127,3 +127,5 @@ REF.
 -  [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 
 - Validate code to check for any last mistakes
+>*assigned to Fatih*
+
