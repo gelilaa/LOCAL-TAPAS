@@ -97,12 +97,13 @@ __The user can use the site to its full extent__
 
 ### Listener:
 
-* Create a `submit` addItem button element
-* Create a 'click' toggleDone input checkbox element
+* Create a `submit` addItem button element listener 
+* Create a 'click' toggleDone input checkbox element listener
 
 
 ### DOM 
 -	Require and apply the `script/..js` files
+- Add shared variables and apply the file to the repo
 
 >*assigned to Hazem*
 ---
