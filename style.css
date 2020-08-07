@@ -3,6 +3,7 @@ html {
     background: url("oh-la-la.jpeg") center no-repeat;
     background-size: cover;
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    overflow: hidden;
   }
   .container {
     min-height: 100vh;
