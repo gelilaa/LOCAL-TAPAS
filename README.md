@@ -109,9 +109,9 @@ Project Link: [Whack-A-Mole](https://github.com/HazemBittar/Whack-A-Mole-)
 
 [contributors-shield]: https://img.shields.io/github/contributors/gelilaa/LOCAL-TAPAS.svg?style=flat-square
 [contributors-url]: https://github.com/HazemBittar/Whack-A-Mole-/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HazemBittar/Whack-A-Mole-gelilaa/LOCAL-TAPAS.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/gelilaa/LOCAL-TAPAS.svg?style=flat-square
 [forks-url]: https://github.com/gelilaa/LOCAL-TAPAS/network/members
 [issues-shield]: https://img.shields.io/github/issues/gelilaa/LOCAL-TAPAS.svg?style=flat-square
 [issues-url]: https://github.com/gelilaa/LOCAL-TAPAS/issues
-[license-shield]: https://img.shields.io/github/license/HazemBittar/Whack-A-Mole-.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/gelilaa/LOCAL-TAPAS.svg?style=flat-square
 [license-url]: https://github.com/gelilaa/LOCAL-TAPAS/blob/master/LICENSE
